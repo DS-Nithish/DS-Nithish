@@ -1,51 +1,70 @@
-# 🖤 Nithish
+# Nithish R
 
-```bash
-$ whoami
-Computer Science Master's Student
-$ ./build
-```
+### Computer Science · Developer · Builder
 
-> Building things, breaking things, and learning how they work.
+<p align="center">
+  <i>Learning by building things that actually work.</i>
+</p>
 
-### ⚡ Tech
+---
 
-```text
-C        ██████████
-Python   ██████████
-Rust     ████████
-Java     ███████
-TypeScript ████████
-```
+### 👨‍💻 About
 
-`C` · `Rust` · `Python` · `Java` · `TypeScript`
-`React Native` · `Raylib` · `Machine Learning` · `Git`
+I'm a Computer Science master's student interested in **software development, systems, AI, and data**.
 
-### 🛠️ Currently Building
+Currently exploring different layers of development — from **C and Rust** to **React Native and Machine Learning**.
 
-* 🎮 C + Raylib games
-* 🤖 AI / ML projects
-* 📱 React Native apps
-* 🧩 DSA & problem solving
+---
 
-### 📌 Featured
+### 🧰 Tech I Use
+
+**Languages**
+
+`C` `Rust` `Python` `Java` `TypeScript` `Kotlin`
+
+**Development**
+
+`React Native` `Expo` `Raylib` `Git` `Neovim`
+
+**Interests**
+
+`AI / ML` · `Data Science` · `Systems` · `DSA` · `Game Development`
+
+---
+
+### 🚀 Projects
 
 **MPLADS AI Risk Detection**
-`Python` · `ML` · `Isolation Forest` · `Data Analysis`
+AI/ML pipeline for detecting anomalies and risk patterns in project data.
 
-### 🖥️ Setup
+**Fisher App**
+React Native application exploring GPS-based tools for fishermen.
 
-`macOS` · `Linux` · `Neovim` · `Zsh` · `Git`
+**C + Raylib Game**
+Learning game development, rendering, input handling and game architecture in C.
 
-```bash
-$ git status
-learning...
-building...
-shipping...
+---
+
+### 🌱 Currently Learning
+
+```text
+DSA          →  Algorithms & Problem Solving
+Systems      →  C & Rust
+AI / ML      →  Anomaly Detection
+Development  →  React Native & TypeScript
 ```
 
 ---
 
+### 📈 GitHub
+
 <p align="center">
-  <i>“Build. Break. Learn. Repeat.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=DS-Nithish&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Nithish&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Build • Learn • Improve</b>
 </p>
