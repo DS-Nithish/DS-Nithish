@@ -1,96 +1,42 @@
 # ⚡ NITHISH R
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+NITHISH_OS...;%3E+Loading+Developer+Realm...;%3E+Rust+%7C+C+%7C+Python+%7C+TypeScript;%3E+Build.+Break.+Understand.+Ascend." />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+Developer;Building+%7C+Breaking+%7C+Learning;C+%7C+Rust+%7C+Python+%7C+TypeScript;AI+%7C+Systems+%7C+DSA+%7C+Game+Development" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DS-Nithish&label=SOULS+WHO+VISITED&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DS-Nithish&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/DS-Nithish?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/DS-Nithish?label=Stars&style=flat" />
 </p>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    N I T H I S H   O S                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   NAME       : Nithish R                                     ║
-║   REALM      : Computer Science                              ║
-║   CLASS      : Developer                                     ║
-║   PATH       : Systems • AI • DSA • Applications              ║
-║   WEAPON     : Neovim + LazyVim                              ║
-║   DOMAIN     : C • Rust • Python • TypeScript                 ║
-║                                                              ║
-║   STATUS     : ███████████████████░░  90% Learning           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-## 🜂 Cultivation Status
-
-```text
-             ┌──────────────────────────────┐
-             │       DEVELOPER REALM        │
-             └──────────────┬───────────────┘
-                            │
-                            ▼
-                  ┌─────────────────┐
-                  │  CODE INITIATE  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │  LOGIC FORGER   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ SYSTEM SEEKER    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │ ⚡ RUST AWAKENING │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │  CURRENT REALM    │
-                 │  SYSTEM BUILDER   │
-                 └───────────────────┘
-```
-
-> **Current Realm:** System Builder
-> **Next Realm:** Rust Systems Engineer
-
----
-
-# 🧬 `whoami`
+## 🧬 `whoami`
 
 ```rust
-struct Cultivator {
+struct Developer {
     name: &'static str,
-    realm: &'static str,
-    techniques: Vec<&'static str>,
-    weapons: Vec<&'static str>,
+    role: &'static str,
+    interests: [&'static str; 6],
+    currently_learning: [&'static str; 4],
 }
 
 fn main() {
-    let nithish = Cultivator {
+    let nithish = Developer {
         name: "Nithish R",
-        realm: "System Builder",
-        techniques: vec![
+        role: "Computer Science Student",
+        interests: [
+            "Systems Programming",
+            "Artificial Intelligence",
+            "Data Structures",
+            "Game Development",
+            "Mobile Development",
+            "Cybersecurity",
+        ],
+        currently_learning: [
+            "Rust",
+            "C",
             "DSA",
             "Machine Learning",
-            "Systems Programming",
-            "Application Development",
-        ],
-        weapons: vec![
-            "C",
-            "Rust",
-            "Python",
-            "TypeScript",
         ],
     };
 }
@@ -98,78 +44,73 @@ fn main() {
 
 ---
 
-# ⚔️ Cultivation Techniques
+## 🧠 About Me
 
-### 🜁 Core Languages
+🎓 **Computer Science Master's Student**
+
+💻 Developer who enjoys understanding how things work under the hood.
+
+🦀 Currently diving deeper into **Rust & systems programming**.
+
+🤖 Exploring **AI/ML, anomaly detection and data-driven applications**.
+
+🎮 Building small games using **C + Raylib**.
+
+📱 Building mobile applications using **React Native + Expo**.
+
+🧩 Practicing **Data Structures & Algorithms**.
+
+⚙️ Customizing my development environment with **Neovim + LazyVim**.
+
+---
+
+# ⚔️ Tech Arsenal
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,rust,python,java,typescript,kotlin" />
 </p>
 
-### 🜂 Development Arts
+### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,expo,git,github,linux,neovim" />
+<img src="https://skillicons.dev/icons?i=react,expo,git,github,neovim,linux" />
+</p>
+
+### Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 ---
 
-# 📜 Technique Mastery
-
-```text
-C              ████████████████░░░░  80%
-Python         ███████████████░░░░░  75%
-Java           ██████████████░░░░░░  70%
-TypeScript     █████████████░░░░░░░  65%
-Rust           ██████████░░░░░░░░░░  50%
-Kotlin         █████████░░░░░░░░░░░  45%
-
-DSA            █████████████░░░░░░░  65%
-AI / ML        ████████████░░░░░░░░  60%
-Systems        ██████████░░░░░░░░░░  50%
-Game Dev       █████████░░░░░░░░░░░  45%
-Cybersecurity  ████████░░░░░░░░░░░░  40%
-```
-
----
-
-# 🏯 Sacred Artifacts — Projects
+# 🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-## 🔍 MPLADS AI Risk Detection
+### 🔍 MPLADS AI Risk Detection
 
-**Artifact Type:** AI / ML
+AI/ML system designed to identify **anomalies and potential risk patterns** in MPLADS project data.
 
-An anomaly detection system for identifying unusual patterns and potential risks in MPLADS project data.
+**Stack**
 
-```text
-Python
-Pandas
-Feature Engineering
-Isolation Forest
-Risk Scoring
-```
+`Python` `Pandas` `Machine Learning` `Isolation Forest`
 
 </td>
 
 <td width="50%">
 
-## 🎣 Fisher
+### 🎣 Fisher
 
-**Artifact Type:** Mobile
+A mobile application focused on tools useful for fishermen.
 
-A mobile application exploring GPS-based tools for fishermen.
+**Stack**
 
-```text
-React Native
-Expo
-TypeScript
-GPS
-Tailwind
-```
+`React Native` `Expo` `TypeScript` `GPS`
 
 </td>
 </tr>
@@ -177,37 +118,25 @@ Tailwind
 <tr>
 <td width="50%">
 
-## 🎮 Raylib Game
+### 🎮 C + Raylib
 
-**Artifact Type:** Systems / Game Dev
+Learning game development while exploring **low-level programming in C**.
 
-A low-level game development project built while learning C and Raylib.
+**Stack**
 
-```text
-C
-Raylib
-Game Loop
-Input
-Rendering
-```
+`C` `Raylib` `Game Loop` `Input Handling`
 
 </td>
 
 <td width="50%">
 
-## 🦀 Rust Journey
+### 🦀 Rust Journey
 
-**Artifact Type:** Systems
+Exploring Rust through small projects and systems-oriented programming.
 
-Exploring Rust through progressively harder projects.
+**Learning**
 
-```text
-Ownership
-Borrowing
-Traits
-Cargo
-Error Handling
-```
+`Ownership` `Borrowing` `Traits` `Cargo` `Async`
 
 </td>
 </tr>
@@ -215,61 +144,58 @@ Error Handling
 
 ---
 
-# 🧪 Current Training Grounds
+# 🧪 Current Experiments
 
 ```text
-╔══════════════════════════════════════════════╗
-║              ACTIVE TRAINING                 ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🦀 Rust Systems       █████████░░  ACTIVE   ║
-║  🧠 DSA                ██████████░  ACTIVE   ║
-║  ⚙️ C Systems          █████████░░  ACTIVE   ║
-║  🤖 AI / ML            ████████░░░  ACTIVE   ║
-║  🎮 Game Development   ███████░░░░  ACTIVE   ║
-║  🔐 Cybersecurity      ██████░░░░░  ACTIVE   ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│              NITHISH LABORATORY             │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🦀 Rust              █████████░░  Learning  │
+│  ⚙️ Systems            ███████░░░░  Exploring │
+│  🧠 DSA                ████████░░░  Practicing│
+│  🤖 AI / ML            ███████░░░░  Building  │
+│  🎮 Game Dev           ██████░░░░░  Exploring │
+│  📱 React Native       ████████░░░  Building  │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🖥️ Developer Terminal
+# 🧠 Developer Mindset
 
-```bash
-$ neofetch
-
-USER       → Nithish
-OS         → Linux / macOS
-SHELL      → Zsh
-EDITOR     → Neovim + LazyVim
-
-LANGUAGES
-→ C
-→ Rust
-→ Python
-→ Java
-→ TypeScript
-→ Kotlin
-
-DOMAINS
-→ Systems Programming
-→ Artificial Intelligence
-→ Data Structures
-→ Mobile Development
-→ Game Development
-→ Cybersecurity
-
-STATUS
-→ Learning
-→ Building
-→ Debugging
-→ Repeating
+```text
+        ┌──────────────┐
+        │    BUILD     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    BREAK     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   DEBUG      │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │  UNDERSTAND  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────────────┘
 ```
+
+> **Don't just use the technology. Understand it.**
 
 ---
 
-# 📊 Realm Statistics
+# 📊 GitHub Command Center
 
 <p align="center">
 
@@ -281,7 +207,7 @@ STATUS
 
 ---
 
-# 🔥 Cultivation Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -291,7 +217,7 @@ STATUS
 
 ---
 
-# 🐍 Spirit Beast
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -301,17 +227,7 @@ STATUS
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DS-Nithish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Qi Flow
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -321,81 +237,61 @@ STATUS
 
 ---
 
-# 🎯 Ascension Path
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DS-Nithish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🛠️ My Environment
 
 ```text
-2026
-
-[✓] Learn DSA fundamentals
-[✓] Build ML projects
-[✓] Explore C systems programming
-[✓] Start Rust
-[ ] Build a serious Rust project
-[ ] Contribute to Open Source
-[ ] Build a complete game
-[ ] Deepen Cybersecurity skills
-[ ] Master advanced DSA
-[ ] Ship something used by real people
+OS              → Linux / macOS
+Editor          → Neovim + LazyVim
+Terminal        → Zsh
+Languages       → C / Rust / Python / Java / TypeScript
+Version Control → Git
+Mobile          → React Native / Expo
+Game Dev        → Raylib
+AI / ML         → Python / Machine Learning
 ```
 
 ---
 
-# 🧠 The Developer Dao
+# 🎯 2026 Goals
 
-```text
-                    ┌──────────────┐
-                    │    CREATE    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    BREAK     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  UNDERSTAND  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    ASCEND    │
-                    └──────────────┘
-```
-
-> **Every bug is a hidden technique.**
+* [ ] Become stronger at DSA
+* [ ] Build serious projects in Rust
+* [ ] Improve systems programming
+* [ ] Build and ship useful applications
+* [ ] Explore cybersecurity
+* [ ] Contribute to open source
+* [ ] Build more AI/ML projects
+* [ ] Create a complete game using C/Raylib
 
 ---
 
-# ⚡ System Commands
-
-```text
-$ cargo build
-$ cargo run
-$ cargo check
-$ cargo clippy
-
-$ git add .
-$ git commit
-$ git push
-
-$ nvim .
-```
-
----
-
-# 🌐 Connect
+# 🌐 Find Me
 
 <p align="center">
 
 <a href="https://github.com/DS-Nithish">
-<img src="https://img.shields.io/badge/GitHub-DS--Nithish-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-DS--Nithish-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</p>
+
+---
+
+# ⚡ Random Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -403,8 +299,8 @@ $ nvim .
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:000000&height=150&section=footer"/>
+### `while(alive) { learn(); build(); repeat(); }`
 
-### `while(alive) { learn(); build(); debug(); ascend(); }`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 
 </p>
