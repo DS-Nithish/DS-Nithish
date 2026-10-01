@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -13,17 +13,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: DS-Nithish
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update contribution snake"
-          add: "*.svg"
-          new_branch: output
+      - name: Publish snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan output
+
+          git rm -rf . || true
+
+          cp dist/github-contribution-grid-snake.svg .
+          cp dist/github-contribution-grid-snake-dark.svg .
+
+          git add .
+          git commit -m "chore: update contribution snake"
+          git push origin output --force
